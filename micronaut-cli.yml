@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: com.oracle.oci.adm.demo
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [app-name, gcn-bom, gcn-license, gcn-oci-cloud-app, gcn-oci-logging, gcn-oci-security, graalvm, http-client, java, java-application, junit, logback, maven, maven-enforcer-plugin, netty-server, properties, readme, security-annotations, security-jwt, security-oauth2, serialization-jackson, shade, views-thymeleaf]
